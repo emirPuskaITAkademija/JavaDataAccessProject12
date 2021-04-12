@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.9" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>23</int>
+    </void>
+    <void property="name">
+     <string>Albin</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <int>123</int>
+    </void>
+    <void property="surname">
+     <string>Fehrić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>13</int>
+    </void>
+    <void property="name">
+     <string>Melisa</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <int>321</int>
+    </void>
+    <void property="surname">
+     <string>Herović</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>3</int>
+    </void>
+    <void property="name">
+     <string>Adna</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <int>132</int>
+    </void>
+    <void property="surname">
+     <string>Kuduzović</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>33</int>
+    </void>
+    <void property="name">
+     <string>Harun</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <int>312</int>
+    </void>
+    <void property="surname">
+     <string>Bucalović</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>34</int>
+    </void>
+    <void property="name">
+     <string>Borislav</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <int>213</int>
+    </void>
+    <void property="surname">
+     <string>Domazet</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

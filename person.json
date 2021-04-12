@@ -1,0 +1,17 @@
+[
+  {
+    "nin":123,
+    "surname":"Fehrić",
+    "name":"Albin",
+    "age":23
+  },
+  {
+    "nin":321,
+    "surname":"Herović",
+    "name":"Melisa",
+    "age":13
+  },
+  {"nin":132,"surname":"Kuduzović","name":"Adna","age":3},
+  {"nin":312,"surname":"Bucalović","name":"Harun","age":33},
+  {"nin":213,"surname":"Domazet","name":"Borislav","age":34}
+]
